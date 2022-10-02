@@ -1,5 +1,5 @@
 # gmod
-[Arccw] StarWars | Imperial
+[Arccw] StarWars | Imperial -- WIP
 
 Dependencies
 https://steamcommunity.com/sharedfiles/filedetails/?id=2131057232 -- [ArcCW] Arctic's Customizable Weapons (Base)
